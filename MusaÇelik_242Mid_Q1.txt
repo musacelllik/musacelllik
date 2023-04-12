@@ -1,0 +1,8 @@
+Ascii Name(Musa)=109+117+115+97=428
+Ascii Surname(Çelik)=231+101+108+105+107=608
+Ascii Total=428+608=1036
+Timer number=4
+ARR number=65535
+Duration=18240
+Led pin number=12
+
